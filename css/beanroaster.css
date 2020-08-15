@@ -100,3 +100,16 @@ footer {
     top: 177px;
     z-index: 0;
 }
+
+#insert1{
+    width:80%;
+}
+
+#insert2{
+    width: 20%;
+}
+
+#Comments{
+    width: 622px;
+    text-align: center;
+}
